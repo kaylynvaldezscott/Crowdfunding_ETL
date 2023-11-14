@@ -11,4 +11,8 @@ This notebook contains codes for reading excel sheets, taking that information a
 For CSV files created from the Jupyter Notebook, visit the Resources Folder- there you will find files labeled 'category.csv', 'subcategory.csv', 'contacts.csv', and 'campaign.csv'. 
 
 Lastly, we took these CSV files and created table through PostgreSQL. 
-For the ERD 
+For the ERD file containing information on primary and foreign keys, see file labeled 'ERD Image.png'. 
+
+To create tables through PostgreSQL, visit file labeled 'crowdfunding_db_schema.sql'. Using this schema, we created four tables and succesfully imported the coresponding CSV files to their table. 
+
+To see the success of the imports, we used SELECT statements on each table to show information. See files labeled 'sele
