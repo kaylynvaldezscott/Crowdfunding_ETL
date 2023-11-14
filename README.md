@@ -8,17 +8,7 @@ Through extraction and after transforming the data, we created four CSV files an
 For Jupyter Notebook containing extraction and transformation work- see file labeled 'ETL_Mini_Project_AKiczma_KValdezScott.ipynb'
 This notebook contains codes for reading excel sheets, taking that information and transforming them into DataFrames, and pulling certain information from the DataFrames. Finally, we export this information into CSV files. 
 
-For CSV files created from the Jupyter Notebook, visit the Resources Folder- there you will find files labeled 'category.csv', 'subcategory.csv', 
+For CSV files created from the Jupyter Notebook, visit the Resources Folder- there you will find files labeled 'category.csv', 'subcategory.csv', 'contacts.csv', and 'campaign.csv'. 
 
-
-
-
-
-
-These notebooks will take a closer look into collecting data, organizing and storing data, analyzing data, and visually communicating insights.
-
-Deliverable 1: Scrape titles and preview text from Mars news articles.
-
-Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
-
-For Deliverable 1, open .ipynb file labeled 'part_1_mars_news-Kaylyn Valdez-Scott' For Deliverable 2, open .ipynb file labeled 'part_2_mars_weather-Kaylyn Valdez-Scott'
+Lastly, we took these CSV files and created table through PostgreSQL. 
+For the ERD 
