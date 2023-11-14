@@ -1,5 +1,5 @@
 # Crowdfunding_ETL
-Submitted by Kaylyn Valdez-Scott and Alyshia Kiczma Date: 14-NOV-2023 Project Title: Project 2, Crowdfunding ETL
+**Submitted by Kaylyn Valdez-Scott and Alyshia Kiczma** **Date: 14-NOV-2023** **Project Title: Project 2, Crowdfunding ETL**
 
 Purpose of project is to build an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. 
 
